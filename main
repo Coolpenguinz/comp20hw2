@@ -1,0 +1,18 @@
+<html>
+<head>
+	<style>
+		h1 {
+				text-align: center;
+				font-size: 18pt;
+				color: #000;
+			}
+	</style>
+</head>
+<body>
+	<h1>
+		The Majestic Red Tailed Hawk
+	</h1>
+	<img src="Comp20HW2RedTailedHawk1.jpg" alt="Red Tailed Hawk">
+
+</body>
+</html>

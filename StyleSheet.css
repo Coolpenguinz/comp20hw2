@@ -19,7 +19,9 @@ body, html {
 			padding-right: 10px;
 		}
 		h3 {
-
+			font-size: 16pt;
+			font: Arial;
+			text-align: center;
 		}
 		ul {
 			margin: 0;

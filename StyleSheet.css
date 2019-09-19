@@ -30,7 +30,6 @@ body, html {
 			background-color: #444444;
 			list-style-type: none;
 			text-decoration: none;
-			position: fixed;
 		}
 		li {
 			float: left;

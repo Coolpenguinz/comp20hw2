@@ -30,6 +30,7 @@ body, html {
 			background-color: #444444;
 			list-style-type: none;
 			text-decoration: none;
+			position: fixed;
 		}
 		li {
 			float: left;
@@ -38,7 +39,6 @@ body, html {
 			font-size: 24pt;
 			display: block;
 			color: white;
-			position: sticky;
 			top: 30px;
 			text-decoration: none;
 			text-align: center;

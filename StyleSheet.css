@@ -19,7 +19,7 @@ body, html {
 			padding-right: 10px;
 		}
 		h3 {
-			font-size: 16pt;
+			font-size: 12pt;
 			font: Arial;
 			text-align: center;
 		}
@@ -45,6 +45,9 @@ body, html {
 		}
 		li a:hover{
 			background-color: #111111;
+		}
+		p span {
+			display: block;
 		}
 		.center {
 			display: block;

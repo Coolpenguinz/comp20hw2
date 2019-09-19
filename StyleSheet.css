@@ -15,7 +15,6 @@ body, html {
 		h2 {
 			font-size: 17pt;
 			color:  #fff;
-			position: sticky;
 			padding-left: 10px;
 			padding-right: 10px;
 		}
@@ -39,6 +38,7 @@ body, html {
 			font-size: 24pt;
 			display: block;
 			color: white;
+			position: sticky;
 			text-decoration: none;
 			text-align: center;
 			padding: 25px;

@@ -14,10 +14,12 @@ body, html {
 			}
 		h2 {
 			font-size: 17pt;
-			color:  #000;
-			background-color: #deae7e;
+			color:  #fff;
 			padding-left: 10px;
 			padding-right: 10px;
+		}
+		h3 {
+
 		}
 		ul {
 			margin: 0;
@@ -36,7 +38,7 @@ body, html {
 			color: white;
 			text-decoration: none;
 			text-align: center;
-			padding: 14px;
+			padding: 25px;
 			margin-left: 20px; 
 		}
 		li a:hover{

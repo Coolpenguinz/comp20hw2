@@ -39,8 +39,6 @@ body, html {
 			display: block;
 			color: white;
 			top: 30px;
-			position: -webkit-sticky;
-  			position: sticky;
 			text-decoration: none;
 			text-align: center;
 			padding: 25px;

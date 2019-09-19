@@ -39,6 +39,7 @@ body, html {
 			display: block;
 			color: white;
 			position: sticky;
+			top: 30px;
 			text-decoration: none;
 			text-align: center;
 			padding: 25px;

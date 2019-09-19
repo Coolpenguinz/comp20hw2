@@ -11,8 +11,6 @@ body, html {
 				background-color: #d99c57;
 				margin: 0;
 				padding: 0;
-				position: -webkit-sticky;
-				position: sticky;
 			}
 		h2 {
 			font-size: 17pt;

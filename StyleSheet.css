@@ -33,7 +33,6 @@ body, html {
 		}
 		li {
 			float: left;
-			position: sticky;
 		}
 		li a{
 			font-size: 24pt;
@@ -41,6 +40,8 @@ body, html {
 			color: white;
 			text-decoration: none;
 			text-align: center;
+			position: -webkit-sticky;
+			position: sticky;
 			padding: 25px;
 			margin-left: 20px; 
 		}
@@ -54,4 +55,9 @@ body, html {
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
+		}
+		.sticky {
+		 		position: fixed;
+		 		top: 0;
+		 		width: 100%;
 		}

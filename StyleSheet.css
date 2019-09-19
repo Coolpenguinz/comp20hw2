@@ -33,6 +33,7 @@ body, html {
 		}
 		li {
 			float: left;
+			position: sticky;
 		}
 		li a{
 			font-size: 24pt;
